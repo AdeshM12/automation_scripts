@@ -180,6 +180,12 @@ run monitoring_stack.sh with sudo
 >>>>>>> 2597a40 (Instruction)
 for Linux and Ubuntu Environment Instructions to Run run monitoring_stack.sh with sudo
 
+<<<<<<< HEAD
 sudo ./monitoring_stack.sh
 sudo ./monitoring_stack_ubuntu.sh
 >>>>>>> 906f074 (Instructions)
+=======
+	
+	sudo ./monitoring_stack.sh
+	sudo ./monitoring_stack_ubuntu.sh
+>>>>>>> 665ea9d (Instruction)
