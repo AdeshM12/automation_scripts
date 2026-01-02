@@ -4,6 +4,7 @@ its an automation script to install:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         -->Prometheus
         -->Graphana
         -->ALert Manager
@@ -171,6 +172,12 @@ run monitoring_stack.sh with sudo
 -->Graphana
 -->ALert Manager
 -->Node Exporter
+=======
+	-->Prometheus
+	-->Graphana
+	-->ALert Manager
+	-->Node Exporter
+>>>>>>> 2597a40 (Instruction)
 for Linux and Ubuntu Environment Instructions to Run run monitoring_stack.sh with sudo
 
 sudo ./monitoring_stack.sh
