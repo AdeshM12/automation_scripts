@@ -179,4 +179,8 @@ for Linux and Ubuntu Environment Instructions to Run run monitoring_stack.sh wit
 
 sudo ./monitoring_stack.sh
 sudo ./monitoring_stack_ubuntu.sh
+<<<<<<< HEAD
 >>>>>>> 906f074 (Instructions)
+=======
+
+>>>>>>> 5d0c9bd (Instructions)
