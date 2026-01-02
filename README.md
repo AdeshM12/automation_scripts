@@ -5,7 +5,7 @@ its an automation script to install:
 	-->ALert Manager
 	-->Node Exporter
 
-for Linux Environments
+for Linux and Ubuntu Environment
 
 Instructions to Run
 
