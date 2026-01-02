@@ -1,4 +1,4 @@
-its an automation script to install:
+#its an automation script to install:
 
         -->Prometheus
         -->Graphana
