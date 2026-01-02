@@ -157,8 +157,11 @@ run monitoring_stack.sh with sudo
     sudo ./monitoring_stack.sh
     sudo ./monitoring_stack_ubuntu.sh
 
+<<<<<<< HEAD
 >>>>>>> 3dc846b (Instructions)
 =======
     sudo ./monitoring_stack.sh
     sudo ./monitoring_stack_ubuntu.sh
 >>>>>>> 9a4ca51 (Instructions)
+=======
+>>>>>>> 917cb82 (Instructions)
