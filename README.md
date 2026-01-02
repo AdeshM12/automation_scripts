@@ -107,11 +107,24 @@ For open source projects, say how it is licensed.
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
 =======
 its an automation script to install:
+	
 	-->Prometheus
 	-->Graphana
 	-->ALert Manager
 	-->Node Exporter
 
 for Linux Environments
+<<<<<<< HEAD
 >>>>>>> b4fdbc0 (Monitoring_Stack)
+<<<<<<< HEAD
 >>>>>>> 5302d5f (Monitoring_Stack)
+=======
+=======
+
+Instructions to Run
+
+run monitoring_stack.sh with sudo
+
+#sudo ./monitoring_stack.sh
+>>>>>>> 61e0925 (Instructions_file)
+>>>>>>> 667c9fd (Instructions_file)
