@@ -1,7 +1,14 @@
 its an automation script to install:
+	
 	-->Prometheus
 	-->Graphana
 	-->ALert Manager
 	-->Node Exporter
 
 for Linux Environments
+
+Instructions to Run
+
+run monitoring_stack.sh with sudo
+
+#sudo ./monitoring_stack.sh
