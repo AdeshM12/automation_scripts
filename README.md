@@ -164,4 +164,8 @@ run monitoring_stack.sh with sudo
 
     sudo ./monitoring_stack.sh
     sudo ./monitoring_stack_ubuntu.sh
+<<<<<<< HEAD
 >>>>>>> 9a4ca51 (Instructions)
+=======
+
+>>>>>>> 917cb82 (Instructions)
