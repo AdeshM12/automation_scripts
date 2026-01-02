@@ -13,3 +13,4 @@ run monitoring_stack.sh with sudo
 
 	
 	sudo ./monitoring_stack.sh
+	sudo ./monitoring_stack_ubuntu.sh
