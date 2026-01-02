@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 its an automation script to install:
 
         -->Prometheus
@@ -106,13 +107,11 @@ For open source projects, say how it is licensed.
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
 =======
+=======
+>>>>>>> 890aadd (Instruction)
 its an automation script to install:
-	
-	-->Prometheus
-	-->Graphana
-	-->ALert Manager
-	-->Node Exporter
 
+<<<<<<< HEAD
 for Linux Environments
 <<<<<<< HEAD
 >>>>>>> b4fdbc0 (Monitoring_Stack)
@@ -120,11 +119,25 @@ for Linux Environments
 >>>>>>> 5302d5f (Monitoring_Stack)
 =======
 =======
+=======
+        -->Prometheus
+        -->Graphana
+        -->ALert Manager
+        -->Node Exporter
+
+for Linux and Ubuntu Environment
+>>>>>>> 890aadd (Instruction)
 
 Instructions to Run
 
 run monitoring_stack.sh with sudo
 
+<<<<<<< HEAD
 #sudo ./monitoring_stack.sh
 >>>>>>> 61e0925 (Instructions_file)
 >>>>>>> 667c9fd (Instructions_file)
+=======
+
+        sudo ./monitoring_stack.sh
+        sudo ./monitoring_stack_ubuntu.sh
+>>>>>>> 890aadd (Instruction)
