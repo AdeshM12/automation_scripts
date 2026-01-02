@@ -2,11 +2,18 @@
 <<<<<<< HEAD
 its an automation script to install:
 
+<<<<<<< HEAD
         -->Prometheus
         -->Graphana
         -->ALert Manager
         -->Node Exporter
 for Linux and Ubuntu Environment Instructions to Run run monitoring_stack.sh with sudo
+=======
+    -->Prometheus
+    -->Graphana
+    -->ALert Manager
+    -->Node Exporter
+>>>>>>> 3dc846b (Instructions)
 
 
         sudo ./monitoring_stack.sh
@@ -126,12 +133,15 @@ for Linux Environments
         -->Node Exporter
 
 for Linux and Ubuntu Environment
+<<<<<<< HEAD
 >>>>>>> 890aadd (Instruction)
 
+=======
+>>>>>>> 3dc846b (Instructions)
 Instructions to Run
-
 run monitoring_stack.sh with sudo
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 #sudo ./monitoring_stack.sh
 >>>>>>> 61e0925 (Instructions_file)
@@ -141,3 +151,8 @@ run monitoring_stack.sh with sudo
         sudo ./monitoring_stack.sh
         sudo ./monitoring_stack_ubuntu.sh
 >>>>>>> 890aadd (Instruction)
+=======
+    sudo ./monitoring_stack.sh
+    sudo ./monitoring_stack_ubuntu.sh
+
+>>>>>>> 3dc846b (Instructions)
