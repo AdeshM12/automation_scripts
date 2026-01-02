@@ -177,10 +177,22 @@ run monitoring_stack.sh with sudo
 -->Node Exporter
 for Linux and Ubuntu Environment Instructions to Run run monitoring_stack.sh with sudo
 
+<<<<<<< HEAD
 sudo ./monitoring_stack.sh
 sudo ./monitoring_stack_ubuntu.sh
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 906f074 (Instructions)
 =======
 
 >>>>>>> 5d0c9bd (Instructions)
+=======
+=======
+Instructions to Run
+
+run monitoring_stack.sh with sudo
+
+	
+	sudo ./monitoring_stack.sh
+>>>>>>> f001264 (Instruction)
+>>>>>>> b947e98 (Instruction)
