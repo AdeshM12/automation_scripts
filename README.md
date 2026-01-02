@@ -16,6 +16,7 @@ for Linux and Ubuntu Environment Instructions to Run run monitoring_stack.sh wit
 >>>>>>> 3dc846b (Instructions)
 
 
+<<<<<<< HEAD
         sudo ./monitoring_stack.sh
         sudo ./monitoring_stack_ubuntu.sh
 =======
@@ -156,3 +157,11 @@ run monitoring_stack.sh with sudo
     sudo ./monitoring_stack_ubuntu.sh
 
 >>>>>>> 3dc846b (Instructions)
+=======
+for Linux and Ubuntu Environment
+Instructions to Run
+run monitoring_stack.sh with sudo
+
+    sudo ./monitoring_stack.sh
+    sudo ./monitoring_stack_ubuntu.sh
+>>>>>>> 9a4ca51 (Instructions)
